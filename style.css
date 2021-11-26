@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background: linear-gradient(#b0fffb 0%, #bcffb0 100%);
+}
+
+#img1 {
+    width: 200px;
+    height: 280px;
+    border-radius: 100px;
+}
+
+.line {
+    background-color: black;
+    width: 200px;
+    height: 10px;
+    margin: auto;
+    margin-bottom: 5px;
+}
+
+#im2 {
+    width: 200px;
+    height: 200px;
+}
+
+#menu {
+    top: 20px;
+    left:10px;;
+    list-style: none;
+    position: fixed;
+}
+.li{
+    float: right;
+    padding: 5px;
+    margin: 5px;
+}
